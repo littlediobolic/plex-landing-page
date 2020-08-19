@@ -1,5 +1,5 @@
 {
-    "server-name": "Server Name",
+    "server-name": "Dakota's Server",
     "server-link": "https://app.plex.tv/web/app",
     "num-movies": 1000,
     "num-shows": 100,
@@ -9,14 +9,14 @@
             "body": "Read the instructions on how to get access to the server. You'll be watching movies and television in no time.",
             "button-text": "Instructions",
             "button-icon": "fas fa-list",
-            "button-link": "/access"
+            "button-link": "https://horsemeat.rocks/access.html"
         },
         {
             "title": "Request Media",
             "body": "Use Ombi to request new content for the server. Just sign in with the same Plex account you use for the server. Your request will be reviewed by the administrator and your content will get added as soon as possible.",
             "button-text": "Request",
             "button-icon": "fas fa-plus-square",
-            "button-link": "https://ombi.example.com"
+            "button-link": "https://requests.horsemeat.rocks"
         },
         {
             "title": "SyncLounge",
