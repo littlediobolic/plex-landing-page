@@ -1,4 +1,8 @@
 # Plex Landing Page
+---
+This is my instance of this project, Im keeping the original readme for my sake and to give credit to ryjo1026 as he did the heavy lifting...
+---
+
 
 [![Build Status](https://travis-ci.org/ryjo1026/plex-landing-page.svg?branch=master)](https://travis-ci.org/ryjo1026/plex-landing-page)
 
